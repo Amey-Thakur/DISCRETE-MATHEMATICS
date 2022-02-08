@@ -17,3 +17,4 @@
 ## Question Papers
  - [Previous Question Papers](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/tree/main/Quesion%20Papers/Previous%20Quesion%20Papers)
  - [Solved Papers](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/tree/main/Quesion%20Papers/DM%20Solved%20Papers)
+
