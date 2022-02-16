@@ -4,7 +4,7 @@
  ---
  
  - [X] **[Syllabus](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**
- - [x] **DM - [Reference Books](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/tree/main/Reference%20Books)**
+ - [X] **DM - [Reference Books](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/tree/main/Reference%20Books)**
 
 ---
 
