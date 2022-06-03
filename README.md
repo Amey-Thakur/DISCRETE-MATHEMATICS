@@ -1,5 +1,5 @@
 # DISCRETE-MATHEMATICS
- CSC303: DM [SEMESTER III] 
+ 👍🏻 CSC303: DM [SEMESTER III] 
  
  ---
  
@@ -26,3 +26,9 @@
  
  - [Solved Papers](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/tree/main/Quesion%20Papers/DM%20Solved%20Papers)
 
+---
+
+<p align="center"> <b> 👉🏻 Subject as a part of the 3rd Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
+ 
+<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+ 
