@@ -58,7 +58,7 @@ This collection includes **4 comprehensive reference materials** covering major 
 | # | Resource | Focus Area |
 |---|----------|------------|
 | 1 | [Discrete Mathematics & Its Applications (7th Edition) - Kenneth Rosen](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/Reference%20Books/Discrete%20Mathematics%20&%20Its%20Applications%20(7th%20Edition)%20-%20Kenneth%20Rosen.pdf) | Standard text for all topics |
-| 2 | [Schaum's Outline Discrete Mathematics (3rd Edition)- Lipschutz & Lipson](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/Reference%20Books/Schaum's%20Outline%20Discrete%20Mathematics%20(3rd%20Edition)-%20Seymour%20Lipschutz%20&%20Marc%20Lipson.pdf) | Problem solving and examples |
+| 2 | [Schaum's Outline Discrete Mathematics (3rd Edition) - Seymour Lipschutz & Marc Lipson](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/Reference%20Books/Schaum's%20Outline%20Discrete%20Mathematics%20(3rd%20Edition)-%20Seymour%20Lipschutz%20&%20Marc%20Lipson.pdf) | Problem solving and examples |
 | 3 | [DM Notes](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/Reference%20Books/DM%20Notes.pdf) | General syllabus notes |
 | 4 | [Vidyalankar Discrete Mathematics Notes](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/Reference%20Books/Vidyalankar%20Discrete%20Mathematics%20Notes.pdf) | Structured lecture notes |
 
