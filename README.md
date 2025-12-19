@@ -16,7 +16,7 @@
 
   ---
 
-  [📖 Overview](#overview) · [📂 Contents](#repository-contents) · [📚 Reference Books](#reference-books) · [📝 Question Papers](#question-papers) · [✏️ Personal Preparation](#personal-preparation) · [📋 Syllabus](#syllabus) · [📘 Usage Guidelines](#usage-guidelines) · [📜 License](#license)
+  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [📝 Question Papers](#question-papers) &nbsp;·&nbsp; [✏️ Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -153,9 +153,8 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <!-- FOOTER -->
 <div align="center">
 
-  ### Quick Navigation
+  **[⬆ Back to Top](#discrete-mathematics)** &nbsp;·&nbsp; **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[📝 Question Papers](#question-papers)** &nbsp;·&nbsp; **[✏️ Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏 Acknowledgments](#acknowledgments)**
 
-  **[⬆ Back to Top](#discrete-mathematics)** · **[📖 Overview](#overview)** · **[📚 Reference Books](#reference-books)** · **[📝 Question Papers](#question-papers)** · **[✏️ Personal Preparation](#personal-preparation)** · **[📋 Syllabus](#syllabus)**
 
 </div>
 
