@@ -14,7 +14,7 @@
 
   <!-- Badges -->
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
   [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
@@ -76,10 +76,10 @@ This collection includes **4 comprehensive reference materials** covering major 
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
-| 1 | [Discrete Mathematics & Its Applications (7th Edition) - Kenneth Rosen](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/Reference%20Books/Discrete%20Mathematics%20&%20Its%20Applications%20(7th%20Edition)%20-%20Kenneth%20Rosen.pdf) | Standard text for all topics |
-| 2 | [Schaum's Outline Discrete Mathematics (3rd Edition) - Seymour Lipschutz & Marc Lipson](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/Reference%20Books/Schaum's%20Outline%20Discrete%20Mathematics%20(3rd%20Edition)-%20Seymour%20Lipschutz%20&%20Marc%20Lipson.pdf) | Problem solving and examples |
-| 3 | [DM Notes](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/Reference%20Books/DM%20Notes.pdf) | General syllabus notes |
-| 4 | [Vidyalankar Discrete Mathematics Notes](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/Reference%20Books/Vidyalankar%20Discrete%20Mathematics%20Notes.pdf) | Structured lecture notes |
+| 1 | [Discrete Mathematics & Its Applications (7th Edition) - Kenneth Rosen](Reference%20Books/Discrete%20Mathematics%20&%20Its%20Applications%20(7th%20Edition)%20-%20Kenneth%20Rosen.pdf) | Standard text for all topics |
+| 2 | [Schaum's Outline Discrete Mathematics (3rd Edition) - Seymour Lipschutz & Marc Lipson](Reference%20Books/Schaum's%20Outline%20Discrete%20Mathematics%20(3rd%20Edition)-%20Seymour%20Lipschutz%20&%20Marc%20Lipson.pdf) | Problem solving and examples |
+| 3 | [DM Notes](Reference%20Books/DM%20Notes.pdf) | General syllabus notes |
+| 4 | [Vidyalankar Discrete Mathematics Notes](Reference%20Books/Vidyalankar%20Discrete%20Mathematics%20Notes.pdf) | Structured lecture notes |
 
 ---
 
@@ -89,10 +89,10 @@ University of Mumbai examination papers from **2017-2019** with complete solutio
 
 | # | Exam Session | Question Paper | Solutions |
 |:-:|:---|:---|:---|
-| 1 | December 2017 | [Paper](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DSC-CBCGS_DEC17.pdf) | [Solutions](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/Question%20Papers/DM%20Solved%20Papers/SE-Comps_SEM3_DSC-CBCGS_DEC17_SOLUTION.pdf) |
-| 2 | May 2018 | [Paper](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DSC-CBCGS_MAY18.pdf) | [Solutions](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/Question%20Papers/DM%20Solved%20Papers/SE-Comps_SEM3_DSC-CBCGS_MAY18_SOLUTION.pdf) |
-| 3 | December 2018 | [Paper](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DSC-CBCGS_DEC18.pdf) | [Solutions](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/Question%20Papers/DM%20Solved%20Papers/SE-Comps_SEM3_DSC-CBCGS_DEC18_SOLUTION.pdf) |
-| 4 | May 2019 | [Paper](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DSC-CBCGS_MAY19.pdf) | [Solutions](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/Question%20Papers/DM%20Solved%20Papers/SE-Comps_SEM3_DSC-CBCGS_MAY19_SOLUTION.pdf) |
+| 1 | December 2017 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DSC-CBCGS_DEC17.pdf) | [Solutions](Question%20Papers/DM%20Solved%20Papers/SE-Comps_SEM3_DSC-CBCGS_DEC17_SOLUTION.pdf) |
+| 2 | May 2018 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DSC-CBCGS_MAY18.pdf) | [Solutions](Question%20Papers/DM%20Solved%20Papers/SE-Comps_SEM3_DSC-CBCGS_MAY18_SOLUTION.pdf) |
+| 3 | December 2018 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DSC-CBCGS_DEC18.pdf) | [Solutions](Question%20Papers/DM%20Solved%20Papers/SE-Comps_SEM3_DSC-CBCGS_DEC18_SOLUTION.pdf) |
+| 4 | May 2019 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DSC-CBCGS_MAY19.pdf) | [Solutions](Question%20Papers/DM%20Solved%20Papers/SE-Comps_SEM3_DSC-CBCGS_MAY19_SOLUTION.pdf) |
 
 ---
 
@@ -102,10 +102,10 @@ Study materials and planning resources for effective exam preparation:
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [Syllabus Breakdown](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/My%20Preparation/Note_2019-09-26_13_54_38_159.png) | Detailed module-wise syllabus notes |
-| 2 | [Module Planning](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/My%20Preparation/Note_2019-09-26_14_10_59_854.png) | Topic organization and study schedule |
-| 3 | [Semester Timetable](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/My%20Preparation/Note_2019-09-26_14_17_40_056.png) | Class schedule and planning |
-| 4 | [Examination Blueprint](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/Blueprint%20(DM).png) | Question paper pattern and marking scheme |
+| 1 | [Syllabus Breakdown](My%20Preparation/Note_2019-09-26_13_54_38_159.png) | Detailed module-wise syllabus notes |
+| 2 | [Module Planning](My%20Preparation/Note_2019-09-26_14_10_59_854.png) | Topic organization and study schedule |
+| 3 | [Semester Timetable](My%20Preparation/Note_2019-09-26_14_17_40_056.png) | Class schedule and planning |
+| 4 | [Examination Blueprint](Blueprint%20(DM).png) | Question paper pattern and marking scheme |
 
 ---
 
@@ -114,7 +114,7 @@ Study materials and planning resources for effective exam preparation:
      ========================================================================================= -->
 ## Syllabus
 
-> **[Official CBCGS Syllabus](https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS/blob/main/SE-Comps_CBCGS_Syllabus.pdf)**  
+> **[Official CBCGS Syllabus](SE-Comps_CBCGS_Syllabus.pdf)**  
 > Complete Second Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications.
 
 > [!IMPORTANT]
@@ -180,9 +180,9 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#discrete-mathematics)**
+  [↑ Back to Top](#discrete-mathematics)
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
