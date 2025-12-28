@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Environments
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# Build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+bin/
+obj/
