@@ -1,22 +1,18 @@
-# OS files
+# General
 .DS_Store
 Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
+*~
 
-# IDE files
+# Editors
 .vscode/
 .idea/
 
-# Environments
-__pycache__/
-*.pyc
-*.pyo
-venv/
-env/
-
-# Build artifacts
-*.exe
-*.dll
-*.so
-*.dylib
-bin/
-obj/
+# PDF/Doc generation artifacts (latex etc)
+*.aux
+*.out
+*.toc
+*.synctex.gz
