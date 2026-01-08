@@ -105,7 +105,7 @@ University of Mumbai examination papers from **2017-2019** with complete solutio
 | 1 | December 2017 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DSC-CBCGS_DEC17.pdf) | [Solutions](Question%20Papers/DM%20Solved%20Papers/SE-Comps_SEM3_DSC-CBCGS_DEC17_SOLUTION.pdf) |
 | 2 | May 2018 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DSC-CBCGS_MAY18.pdf) | [Solutions](Question%20Papers/DM%20Solved%20Papers/SE-Comps_SEM3_DSC-CBCGS_MAY18_SOLUTION.pdf) |
 | 3 | December 2018 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DSC-CBCGS_DEC18.pdf) | [Solutions](Question%20Papers/DM%20Solved%20Papers/SE-Comps_SEM3_DSC-CBCGS_DEC18_SOLUTION.pdf) |
-| 4 | May 2019 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DSC-CBCGS_MAY19.pdf) | [Solutions](Question%20Papers/DM%20Solved%20Papers/SE-Comps_SEM3_DSC-CBCGS_MAY19_SOLUTION.pdf)
+| 4 | May 2019 | [Paper](Question%20Papers/Previous%20Question%20Papers/SE-Comps_SEM3_DSC-CBCGS_MAY19.pdf) | [Solutions](Question%20Papers/DM%20Solved%20Papers/SE-Comps_SEM3_DSC-CBCGS_MAY19_SOLUTION.pdf) |
 
 ---
 
@@ -164,7 +164,7 @@ This repository and all linked academic content are made available under the **C
 
 This repository represents a comprehensive collection of study materials, reference books, question papers, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Discrete Mathematics.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
