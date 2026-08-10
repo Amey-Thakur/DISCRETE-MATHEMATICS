@@ -13,13 +13,13 @@
   ### CSC303 · Semester III · Computer Engineering
 
   <!-- Badges -->
-  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
-  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-9E9E9E.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-E8710A.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   <!-- Short Description -->
-  **A comprehensive academic resource for Discrete Mathematics, covering logic, set theory, combinatorics, graph theory, and algebraic structures essential for computer science and engineering foundations.**
+  **A complete academic archive for Discrete Mathematics, covering logic, set theory, combinatorics, graph theory, and algebraic structures essential for computer science and engineering foundations.**
 
   ---
 
@@ -39,7 +39,7 @@ Discrete Mathematics (CSC303) is a fundamental subject in the Second Year (Semes
 
 ### Course Topics
 
-The curriculum encompasses several key mathematical domains:
+The curriculum comprises several key mathematical domains:
 
 - **Logic and Proofs**: Propositional logic, predicates, quantifiers, and mathematical induction.
 - **Set Theory and Relations**: Set operations, properties of relations, equivalence relations, and partial orderings.
@@ -50,13 +50,13 @@ The curriculum encompasses several key mathematical domains:
 
 ### Repository Purpose
 
-This repository represents a curated collection of study materials, reference books, question papers, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
+This repository is a curated collection of study materials, reference books, question papers, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is straightforward: **to preserve knowledge for continuous learning and future reference**.
 
-As I progress in my career, I recognize that discrete mathematical foundations remain essential for solving complex engineering problems and understanding theoretical computer science. This repository serves as my intellectual reference point: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
+As I progress in my career, I recognize that discrete mathematical foundations remain essential for solving complex engineering problems and understanding theoretical computer science. This repository remains my principal reference: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
 
 **Why this repository exists:**
 
-- **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
+- **Knowledge Preservation**: To maintain organized access to complete study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental mathematical concepts.
 - **Academic Documentation**: To authentically document my learning journey through Discrete Mathematics.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
@@ -73,7 +73,7 @@ As I progress in my career, I recognize that discrete mathematical foundations r
 
 ### Reference Books
 
-This collection includes **comprehensive reference materials** covering major topics:
+This collection includes **authoritative reference materials** covering major topics:
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
@@ -134,7 +134,7 @@ This repository is openly shared to support learning and knowledge exchange acro
 Use these resources as reference materials for understanding concepts, reviewing problem-solving techniques, and preparing for examinations. All content is organized for self-paced learning.
 
 **For Educators**  
-These materials may serve as curriculum references, assignment examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
+These materials may serve as curriculum references, assignment examples, or supplementary teaching resources. Attribution is appreciated when using content.
 
 **For Researchers**  
 The documentation and organization may provide insights into academic resource curation and educational content structuring.
@@ -163,7 +163,7 @@ This repository and all linked academic content are made available under the **C
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-This repository represents a comprehensive collection of study materials, reference books, question papers, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Discrete Mathematics.
+This repository is a complete collection of study materials, reference books, question papers, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to remain a dependable reference for students pursuing Discrete Mathematics.
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
