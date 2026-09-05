@@ -1,0 +1,34 @@
+# Discrete Mathematics
+
+> CSC303: Discrete Mathematics [DM] | SE Semester III | Computer Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Second Year, Semester III
+Course code: CSC303
+Licence: CC BY 4.0, attribution required
+Repository created: 6 February 2022
+Work dated: 17 January 2020
+
+## What is in this repository
+
+- My Preparation, 5 files
+- Question Papers, 8 files
+- Reference Books, 4 files
+- Blueprint (DM).png
+- SE-Comps_CBCGS_Syllabus.pdf
+
+## Subject terms
+
+combinatorics, computer-engineering, computer-science,
+discrete-mathematics, discrete-maths, engineering, graph-theory,
+mathematical-logic, mathematics, reference-books, set-theory,
+study-materials, textbooks, university-exams, university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/DISCRETE-MATHEMATICS
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
